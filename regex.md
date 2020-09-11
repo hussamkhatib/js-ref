@@ -41,4 +41,8 @@ let result = petRegex.test(petString);
   //match special char 
   let specialChar = /[*!?]/
   specialChar.test('*') //true
+
+  //match everything 
+  /../g  //two chars
+ /.{1,4}/g  //four
 ```
