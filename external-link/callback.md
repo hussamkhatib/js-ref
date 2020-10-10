@@ -4,6 +4,11 @@
 http://exploringjs.com/impatient-js/toc.html  
 https://projects.verou.me/css3patterns/
 
+https://frontarm.com/courses/async-javascript/promises/why-async/#javascript-cant-multitask
+https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/the-react-cheatsheet-for-2020/amp/
+https://blog.bitsrc.io/15-app-ideas-to-build-and-level-up-your-coding-skills-28612c72a3b1
+https://devdocs.io/javascript/global_objects/array/reverse
+https://flaviocopes.com/sample-app-ideas/
 // EXAMINE THE DOCUMENT OBJECT //
 
 // console.dir(document);
