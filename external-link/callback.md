@@ -9,6 +9,25 @@ https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/th
 https://blog.bitsrc.io/15-app-ideas-to-build-and-level-up-your-coding-skills-28612c72a3b1
 https://devdocs.io/javascript/global_objects/array/reverse
 https://flaviocopes.com/sample-app-ideas/
+
+https://www.freecodecamp.org/news/javascript-under-the-hood-v8/
+https://www.freecodecamp.org/news/javascript-fetch-api-tutorial-with-js-fetch-post-and-header-examples/
+https://www.freecodecamp.org/news/what-is-graphql-the-misconceptions
+https://www.freecodecamp.org/news/javascript-optional-chaining-explained/
+https://www.digitalocean.com/community/tutorials/how-to-build-a-discord-bot-with-node-js
+https://www.digitalocean.com/community/tutorials/how-to-use-node-js-modules-with-npm-and-package-json#step-1-%E2%80%94-creating-a-packagejson-file
+https://www.digitalocean.com/community/tutorial_series/how-to-code-in-node-js
+Heming way app 
+
+basic rules
+ ->Sections
+ ->clarity  ,dont's use there is , there are ..
+ ->sentence ,try to use short.
+ ->active voice ,always try to
+ ->Acronyms , dont assume everyone knows it .(eg tdd->test driven developement)introduce it in beginning ,use full name
+
+
+
 // EXAMINE THE DOCUMENT OBJECT //
 
 // console.dir(document);
